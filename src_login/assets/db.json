@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "username": "admin",
+    "password": "admin",
+    "login": false
+  },
+  "clients": [
+    {
+      "id": 1,
+      "clientName": "Cardinal",
+      "clientDescription": "Cardinal",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "clientName": "Maxor Audit Tool",
+      "clientDescription": "Maxor Audit Tool Main Client",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "clientName": "Maxor Split Billing",
+      "clientDescription": "Maxor Split Billing",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "clientName": "McKesson",
+      "clientDescription": "McKesson",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "clientName": "Cardinal 2",
+      "clientDescription": "Cardinal 2",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "clientName": "Prime Client",
+      "clientDescription": "Prime Client",
+      "status": "Active"
+    }
+  ]
+}
